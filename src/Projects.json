@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "name": "POKEDEX", 
+            "description": "Filter Pokemons by name and type. Click on a pokemon's name to see more information about them, including the locations where it has been seen. Made using React with Hooks, Protected Routes with React Router and Context, styled with Tailwind CSS.",
+            "githubUrl": "https://github.com/candrepa1/Pokedex-React", 
+            "liveDemo": "https://camilaspokedex.netlify.app/#/"
+        }, 
+        {
+            "name": "LIVE CHAT", 
+            "description": "Real time chat app made with Socket.io, React, and Redux. Log in or Sign up, type in the room name you want to go into and chat with all the people in the room. Used Redux Thunk and axios to handle API requests for the login and sign up.", 
+            "login": {"email": "user@user.com", "password": "random123"},
+            "githubUrl": "https://github.com/candrepa1/chatDraft", 
+            "liveDemo": "https://chat-socketio-devsquad.netlify.app"
+        }, 
+        {
+            "name": "TRIVIA APP", 
+            "description": "Consumed the trivia API and implemented Object-Oriented Programming principles. Pick the category, number of questions, and level of difficulty and answer away. Made using Vanilla JavaScript and styled with Bootstrap.", 
+            "githubUrl": "https://github.com/candrepa1/Trivia-API-OOP", 
+            "liveDemo": "https://camilas-oop-api.netlify.app"
+        }
+    ]
+}
